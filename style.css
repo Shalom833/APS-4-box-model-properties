@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(88, 85, 43);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img#Ansel{
+    float: left;
+    padding: 0px 1px 1px 5px;
+    margin: 12px;
+}
+img#Dorothea{
+    float: left;
+    padding: 0px 1px 1px 5px;
+    margin: 12px;
+}
+img#Henri{
+    float: left;
+    padding: 0px 1px 1px 5px;
+    margin: 12px;
+}
+img#Annie{
+    float: left;
+    padding: 0px 1px 1px 5px;
+    margin: 12px;
+}
+img#Steve{
+    float: left;
+    padding: 0px 1px 1px 5px;
+    margin: 12px;
+}
+
+
+h2{
+    text-decoration: underline;
+}
+
+
+p.cap1{
+    margin-left: 350px;
+    font-style: italic;
+}
+p.cap2{
+    margin-left: 250px;
+    font-style: italic;
+}
+p.cap3{
+    margin-left: 375px;
+    font-style: italic;
+}
+p.cap4{
+    margin-left: 400px;
+    font-style: italic;
+}
+p.cap5{
+    margin-left: 325px;
+    font-style: italic;
+}
